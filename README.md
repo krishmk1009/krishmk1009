@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working **community project**
 
-- 🌱 I’m currently learning **MERN Stack , Blokchain**
+- 🌱 I’m currently learning **MERN Stack , Blockchain**
 
 - 💬 Ask me about **Web Dev**
 

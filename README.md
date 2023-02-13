@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/modhavekrushna" target="blank"><img src="https://img.shields.io/twitter/follow/modhavekrushna?logo=twitter&style=for-the-badge" alt="modhavekrushna" /></a> </p>
 
-- 🔭 I’m currently working **community project**
+- 🔭 I’m currently working on **community project**
 
 - 🌱 I’m currently learning **MERN Stack , Blockchain**
 
